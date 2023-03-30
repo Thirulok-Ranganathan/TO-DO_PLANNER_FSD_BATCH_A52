@@ -1,0 +1,53 @@
+header{
+  display: flex;
+  background-color: rgb(53, 47, 47);
+  padding: 2px;
+  color: white;
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  gap: 920px;
+}
+.Headlogo{
+  margin-left: 30px;
+  margin-top: 15px;
+}
+.home{
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: black;
+  padding-left: 17px;
+  padding-right: 17px;
+  cursor: pointer;
+
+}
+.addtodo{
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: black;
+  padding-left: 17px;
+  padding-right: 17px;
+  cursor: pointer;
+
+}
+table{
+  border-collapse: collapse;
+  width: 70%;
+  margin: auto;
+}
+th,td{
+  padding: 10px;
+  text-align: left;
+}
+tr:not(:last-child){
+  border-bottom: 1px solid black;
+}
+.todoTable{
+  padding: 30px;
+}
+
+img{
+  width: 21px;
+  height: 21px;
+}
