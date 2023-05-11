@@ -82,4 +82,4 @@ That’s the Zeigarnik Effect—the concept that we remember incomplete tasks be
 
 <h1>Summary</h1>
 
-The To-do Planner will be a useful tool for anyone looking to manage their tasks more efficiently. Its user-friendly interface, task sorting, filtering, and reminder features make it easy for users to prioritize their tasks and stay on track.
+The To-do Planner will be a useful webapp for anyone looking to manage their tasks more efficiently. Its user-friendly interface, task sorting, filtering, and reminder features make it easy for users to prioritize their tasks and stay on track.
